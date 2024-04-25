@@ -1,0 +1,12 @@
+/*changes to hover over nested elements*/
+
+//Change text color  of button during hover
+button {
+  color: #FF0000;
+
+  // Apply hover styles to button tags
+  &:hover {
+    color: #00FF00;
+  }
+}
+

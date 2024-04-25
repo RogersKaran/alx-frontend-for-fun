@@ -1,0 +1,12 @@
+/* using @import to apply stylings*/
+/* All my colors */
+.red {
+  color: #FF0000; }
+
+.green {
+  color: #00FF00; }
+
+.blue {
+  color: #0000FF; }
+
+/*# sourceMappingURL=tail.map */

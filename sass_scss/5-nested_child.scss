@@ -1,0 +1,11 @@
+/*More on applying styles to nested children*/
+// Apply color style inside body tags
+body {
+  color:  #3D3D3D;
+
+  // Apply text color to first children of body
+  > .red{
+    color: #FF0000;
+  }
+}
+

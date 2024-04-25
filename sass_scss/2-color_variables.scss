@@ -1,0 +1,19 @@
+/*defining two Sass variables for the text color and the background color*/
+
+$text-color: #3D3D3D;
+$background-color: #6D6D6D;
+
+// Apply colors to body, p, and h2 elements
+body {
+  color: $text-color;
+  background-color: $background-color;
+}
+
+p {
+  color: $text-color;
+}
+
+h2 {
+  background-color: $background-color;
+}
+

@@ -1,0 +1,12 @@
+/*nested tag*/
+// Applly styles to body tags
+body {
+  margin: 0;
+  padding:0;
+
+  // Apply margin to p tags inside body
+  p {
+    margin: 10px;
+  }
+}
+

@@ -1,0 +1,12 @@
+/*Applying styles to nested classes*/
+
+// Apply styles to elements in the body
+body {
+  color: #3D3D3D;
+
+  // Apply styles to elements of class .red inside body tags
+  .red {
+    color: #FF0000;
+  }
+}
+

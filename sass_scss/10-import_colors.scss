@@ -1,0 +1,18 @@
+/* using @import to apply stylings*/
+
+// Iport colo variables from 10-colors.scss
+@import '10-colors';
+
+// Assig text color to classes using imported variables
+.red {
+  color: $red;
+}
+
+.green {
+  color: $green;
+}
+
+.blue {
+  color: $blue;
+}
+

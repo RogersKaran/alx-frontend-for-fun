@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,oCAAoC;ACApC,mBAAmB;ADMnB,IAAK;EACH,KAAK,ECND,OAAO;;ADSb,MAAO;EACL,KAAK,ECTC,OAAO;;ADYf,KAAM;EACJ,KAAK,ECZA,OAAO",
+"sources": ["10-import_colors.scss","10-colors.scss"],
+"names": [],
+"file": "tail"
+}

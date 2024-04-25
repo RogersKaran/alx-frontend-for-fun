@@ -1,0 +1,18 @@
+/*Styling margin elements*/
+
+// Define mixin for setting margins
+@mixin set-margins($left, $right) {
+  margin-left: $left;
+  margin-right: $right;
+}
+
+// Apply the mixing setting to body tags
+body {
+  @include set-margins(10px, 10px);
+}
+
+// Apply mixin setting to div tags
+div {
+  @include set-margins(15px, 15px);
+}
+
