@@ -1,0 +1,11 @@
+/*sort variables and print in the debug output*/
+
+// Define the list to sort
+$list_to_sort: john anna zoe kim felicia carrie;
+
+// Sort the list
+$sorted_list: sort($list_to_sort);
+
+// Print the sorted list in the debug output
+@debug $sorted_list;
+
